@@ -1,1 +1,1 @@
-# LSArep
+# Latent Semantic Analysis
